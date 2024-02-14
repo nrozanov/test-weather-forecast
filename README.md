@@ -17,27 +17,27 @@
 
 ### Commands
 
-Enter virtual env:
+- Enter virtual env:
 
-`poetry shell`
+   `poetry shell`
 
-Run development server:
+- Run development server:
 
-`python manage.py`
+   `python manage.py`
 
-or
+   or
 
-`./manage.py`
+   `./manage.py`
 
-Query examples:
+- Query examples:
 
-`curl -v 'http://127.0.0.1:8000/weather/forecasts/2021-09-10%2017%3A00%3A00%2B00/2021-09-11%2017%3A00%3A00%2B00/'`
+   `curl -v 'http://127.0.0.1:8000/weather/forecasts/2021-09-10%2017%3A00%3A00%2B00/2021-09-11%2017%3A00%3A00%2B00/'`
 
-`curl -v 'http://127.0.0.1:8000/weather/forecasts/2021-09-10%2017%3A00%3A00%2B00/'`
+   `curl -v 'http://127.0.0.1:8000/weather/forecasts/2021-09-10%2017%3A00%3A00%2B00/'`
 
-Run tests:
+- Run tests:
 
-`pytest`
+   `pytest`
 
 ## Documentation
 
