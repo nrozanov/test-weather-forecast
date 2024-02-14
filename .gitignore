@@ -50,6 +50,8 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+test_weather.csv
+test_timely_beliefs.py
 
 # Translations
 *.mo
